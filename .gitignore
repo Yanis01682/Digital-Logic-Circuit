@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+
+# Third-party notes and original exam materials kept locally only
+DLC_notes/
+Exams/pr205/
+Exams/中厅.pdf
+Exams/2021.md
+Exams/19.md
